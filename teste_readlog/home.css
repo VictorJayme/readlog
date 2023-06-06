@@ -1,0 +1,126 @@
+
+.body{
+  position: relative;
+  width: 1920px;
+  height: 1080px;
+  background: #101728;
+  }
+.entrar{
+  font-weight: bold;
+  font-size: 18px;
+  text-align: center;
+  cursor: pointer;
+  font-family:Poppins;
+  position: absolute;
+  width: 80.82px;
+  height: 28px;
+  left: 1700px;
+  top: 50px;
+  background-color:#8599CB;
+  color: #101728;
+  }
+.form_navbar{
+  font-size: 18px;
+  position: absolute;
+  width: 1920px;
+  height: 120px;
+  left: 0px;
+  top: 0px;
+  background: #101728;
+}
+.cadastro_div{
+  padding-bottom: 2px;
+  text-align: center;
+  border-color: #8599CB;
+  border-style: solid;
+  border-width: 100%;
+  cursor: pointer;
+  font-family:Poppins;
+  position: absolute;
+  width: 175px;
+  height: 35px;
+  left: 1400px;
+  top: 45px;
+  font-size: 18px;
+  color: #8599CB;
+
+}
+.termos_img{
+  position: absolute;
+  right: 47.58%;
+  left: 900px;
+  top: 37px;
+  bottom: 92.67%;
+}
+.termos_letra{
+  font-size: 18px;
+  cursor: pointer;
+  font-family:Poppins;
+  color: #8599CB;
+  position: absolute;
+  width: 175px;
+  height: 36px;
+  left: 1000px;
+  top: 45px;
+  font-size: 18px;
+}
+.logo{
+  position: absolute;
+  width: 191px;
+  height: 54.57px;
+  left: 64px;
+  top: 23px;
+}
+.contatos{
+  cursor: pointer;
+  font-family:Poppins;
+  position: absolute;
+  width: 12%;
+  height: 100%;
+  left: 45%;
+  top: 38%;
+  font-size: 100%;
+  color: #8599CB;
+}
+.pesquisa{
+  cursor: pointer;
+  font-family:Poppins;
+  position: absolute;
+  width: 3010px;
+  height: 40px;
+  left: 400px;
+  top: 37px;
+  color: #8599CB;
+}
+.pesquisa_quadrado{   
+  padding-bottom: 0.1%;
+  position: absolute;
+  width: 100px;
+  height: 32px;
+  font-family:Poppins;
+  font-size: 16px;
+  line-height: 24px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  border-style: solid;
+  border-color: #8599CB;
+  border-width: 100%;
+  font-size:18px;
+}
+.pesquisa_letreiro{
+  cursor: pointer;
+  font-style: normal;
+  font-variant: small-caps;
+  font-family:Poppins;
+  position: absolute;
+  color: #8599CB;
+}
+.grande{
+  position: absolute;
+  width: 1920px;
+  height: 1080px ;
+  left: 0px;
+  top: 120px;
+  background: #161F35;
+}
